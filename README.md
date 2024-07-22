@@ -24,7 +24,7 @@ Diabetes adalah penyakit kronis yang dapat menyebabkan komplikasi serius jika ti
 ```mermaid
 graph TD
     A[Mulai] --> B[Impor Data]
-    B --> C[Exploratory Data Analysis (EDA)]
+    B --> C[Exploratory Data Analysis]
     C --> D[Pembersihan Data]
     D --> E[Membuat Fitur Turunan]
     E --> F[Standarisasi Fitur]
